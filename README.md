@@ -1,0 +1,2 @@
+# goDiary
+All about Golang
